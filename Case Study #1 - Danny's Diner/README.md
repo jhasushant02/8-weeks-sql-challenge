@@ -4,6 +4,10 @@
 
 Challenge by Danny Ma: https://8weeksqlchallenge.com/case-study-1/
 
+Blog post (full walkthrough): [Case Study #1: Danny's Diner](https://sushant-jha.super.site/my-blogs/case-study-1-dannys-diner)
+
+[Back to all case studies](../README.md)
+
 ## The question
 
 Danny opened a small Japanese restaurant (sushi, curry, ramen) in early 2021 and collected basic data on sales, the menu and loyalty-program members. He wants to understand visit patterns, spending habits and favourite dishes, and decide whether to expand the loyalty program.
