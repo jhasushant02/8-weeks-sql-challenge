@@ -46,3 +46,6 @@ SQL gives the answer, but asking the right business question is the real skill. 
 
 ---
 Dataset and problem statement © Danny Ma, 8 Week SQL Challenge. Solutions are my own.
+
+---
+*If you find any errors, feel free to email me at [sushant.kr.jha02@gmail.com](mailto:sushant.kr.jha02@gmail.com).*
