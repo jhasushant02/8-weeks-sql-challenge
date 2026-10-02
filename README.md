@@ -15,7 +15,7 @@ I'm working through them in order. Each case is a self-contained mini project wi
 | # | Case study | Focus | Blog post | Code |
 |---|---|---|---|---|
 | 01 | Danny's Diner | Customer behaviour, loyalty program | [Read](https://sushant-jha.super.site/my-blogs/case-study-1-dannys-diner) | [Done](case-01-dannys-diner/) |
-| 02 | Pizza Runner | Data cleaning, delivery operations | [Read](https://sushant-jha.super.site/my-blogs/case-study-2-pizza-runner) | Coming soon |
+| 02 | Pizza Runner | Data cleaning, delivery operations | [Read](https://sushant-jha.super.site/my-blogs/case-study-2-pizza-runner) | [Done](case-02-pizza-runner/) |
 | 03 | Foodie-Fi | Subscription analytics | [Read](https://sushant-jha.super.site/my-blogs/case-study-3-foodie-fi) | Coming soon |
 | 04 | Data Bank | Customer transactions | [Read](https://sushant-jha.super.site/my-blogs/case-study-4-data-bank) | Coming soon |
 | 05 | Data Mart | Sales impact analysis | Coming soon | Coming soon |
