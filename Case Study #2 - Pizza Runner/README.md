@@ -15,6 +15,7 @@ Danny launched "Uber for pizza": he recruited runners and built an app to take o
 ## The data
 
 Six tables: `runners`, `customer_orders`, `runner_orders`, `pizza_names`, `pizza_recipes`, `pizza_toppings`. See [`data/`](data/).
+![Database Schema](data/schema.png)
 
 ## Approach
 
