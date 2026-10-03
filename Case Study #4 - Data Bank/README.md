@@ -15,6 +15,7 @@ Data Bank is a digital-only bank that also stores customers' data, with storage 
 ## The data
 
 Three tables: `regions`, `customer_nodes`, `customer_transactions`. See [`data/`](data/).
+![Database Schema](data/schema.png)
 
 ## Approach
 
