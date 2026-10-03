@@ -15,6 +15,7 @@ Danny opened a small Japanese restaurant (sushi, curry, ramen) in early 2021 and
 ## The data
 
 Three tables: `sales` (15 orders), `menu` (3 items), `members` (2 join dates). See [`data/`](data/).
+![Database Schema](data/schema.png)
 
 ## Approach
 
