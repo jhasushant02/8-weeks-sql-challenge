@@ -15,6 +15,7 @@ Danny launched Foodie-Fi in 2020, a streaming service for cooking shows with mon
 ## The data
 
 Two tables: `plans` and `subscriptions`. See [`data/`](data/).
+![Database Schema](data/schema.png)
 
 ## Approach
 
