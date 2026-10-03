@@ -12,8 +12,8 @@ I'm working through them in order. Each case is a self-contained mini project wi
 
 ## Case studies
 
-| # | Case study | Focus | Blog post | Code |
-|---|---|---|---|---|
+| # | Case study | Focus | Blog post |
+|---|---|---|---|
 | 01 | Danny's Diner | Customer behaviour, loyalty program | [Read](https://sushant-jha.super.site/my-blogs/case-study-1-dannys-diner) |
 | 02 | Pizza Runner | Data cleaning, delivery operations | [Read](https://sushant-jha.super.site/my-blogs/case-study-2-pizza-runner) |
 | 03 | Foodie-Fi | Subscription analytics | [Read](https://sushant-jha.super.site/my-blogs/case-study-3-foodie-fi) |
