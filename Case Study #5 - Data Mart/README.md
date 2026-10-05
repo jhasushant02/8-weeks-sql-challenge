@@ -4,7 +4,7 @@
 
 Challenge by Danny Ma: https://8weeksqlchallenge.com/case-study-5/
 
-Blog post (full walkthrough): [Case Study #5: Data Mart](ADD-BLOG-LINK)
+Blog post (full walkthrough): [Case Study #5: Data Mart](https://sushant-jha.super.site/my-blogs/blogs/case-study-5-data-mart)
 
 [Back to all case studies](../README.md)
 
@@ -17,6 +17,7 @@ The job is to clean one table, explore it, and then measure the impact: total sa
 ## The data
 
 One table, `data_mart.weekly_sales`, no joins. See [`data/`](data/).
+
 
 | Column | Type | What it is |
 |---|---|---|
