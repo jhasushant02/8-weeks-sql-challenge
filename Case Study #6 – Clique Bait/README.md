@@ -62,9 +62,7 @@ Fill these in from your own run (see `output/results.md`); the structure I used:
 
 A single A4 infographic for management reporting.
 
-![Clique Bait infographic](output/infographic.png)
-
-The interactive version is in [`output/infographic.html`](output/infographic.html).
+![Clique Bait infographic](output/clique_bait_infographic_full.png)
 
 ## Recommendations for Danny
 
