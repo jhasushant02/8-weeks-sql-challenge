@@ -64,8 +64,6 @@ A single A4 infographic for management reporting.
 
 ![Clique Bait infographic](output/clique_bait_infographic_full.png)
 
-The interactive version is in [`output/infographic.html`](output/Clique_Bait_campaign_impact_infographic.html).
-
 ## Recommendations for Danny
 
 1. **Test campaigns against a held-out group** of users who are never shown the ad, so uplift can be measured instead of inferred.
