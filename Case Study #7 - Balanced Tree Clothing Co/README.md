@@ -4,7 +4,7 @@
 
 Challenge by Danny Ma: https://8weeksqlchallenge.com/case-study-7/
 
-Blog post (full walkthrough): [Case Study #7: Balanced Tree Clothing Co.](ADD-BLOG-LINK)
+Blog post (full walkthrough): [Case Study #7: Balanced Tree Clothing Co.](https://sushant-jha.super.site/my-blogs/case-study-7-balanced-tree-clothing-co)
 
 [Back to all case studies](../README.md)
 
