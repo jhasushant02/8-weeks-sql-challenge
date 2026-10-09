@@ -6,8 +6,8 @@ I'm working through them in order. Each case is a self-contained mini project wi
 
 ## Tools
 
-- **SQL dialect:** MySQL 8
-- **Environment:** MySQL Workbench
+- **SQL dialect:** MySQL 8, PostgreSQLv13
+- **Environment:** MySQL Workbench,Duck DB, DB Fiddle
 - **Version control:** Git and GitHub
 
 ## Case studies
