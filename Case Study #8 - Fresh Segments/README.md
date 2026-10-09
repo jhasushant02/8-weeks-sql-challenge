@@ -17,6 +17,7 @@ The brief has four parts: clean the data, decide how much history is enough, fin
 ## The data
 
 Two tables: `interest_metrics` (one interest in one month for this client) and `interest_map` (one interest and its description). See [`data/`](data/).
+![Entity Relationship Diagram](data/schema.png)
 
 ## Approach
 
