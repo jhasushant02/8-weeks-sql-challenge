@@ -18,10 +18,10 @@ I'm working through them in order. Each case is a self-contained mini project wi
 | 02 | Pizza Runner | Data cleaning, delivery operations | [Read](https://sushant-jha.super.site/my-blogs/case-study-2-pizza-runner) |
 | 03 | Foodie-Fi | Subscription analytics | [Read](https://sushant-jha.super.site/my-blogs/case-study-3-foodie-fi) |
 | 04 | Data Bank | Customer transactions | [Read](https://sushant-jha.super.site/my-blogs/case-study-4-data-bank) |
-| 05 | Data Mart | Sales impact analysis | Coming soon | 
-| 06 | Clique Bait | Digital funnel and campaigns | Coming soon | 
-| 07 | Balanced Tree Clothing Co. | Product and revenue analysis | Coming soon | 
-| 08 | Fresh Segments | Interest metrics, segmentation | Coming soon | 
+| 05 | Data Mart | Sales impact analysis | [Read](https://sushant-jha.super.site/my-blogs/case-study-5-data-mart) |
+| 06 | Clique Bait | Digital funnel and campaigns | [Read](https://sushant-jha.super.site/my-blogs/case-study-6-clique-bait) |
+| 07 | Balanced Tree Clothing Co. | Product and revenue analysis | [Read](https://sushant-jha.super.site/my-blogs/case-study-7-balanced-tree-clothing-co) |
+| 08 | Fresh Segments | Interest metrics, segmentation | [Read](https://sushant-jha.super.site/my-blogs/blogs/case-study-8-fresh-segments) |
 
 Each blog post walks through the thinking behind the queries. The repo holds the code and data.
 
