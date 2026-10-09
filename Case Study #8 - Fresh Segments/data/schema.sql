@@ -1,6 +1,6 @@
 -- Case Study #8: Fresh Segments
 -- Source: https://8weeksqlchallenge.com/case-study-8/ (created by Danny Ma)
--- Dialect: DuckDB
+-- Dialect: DB Fiddle
 -- Note: raw data is kept as provided. month_year is text ('MM-YYYY') and
 -- interest_id is text, so cleaning and casting happen in the queries.
 -- Row data is NOT included in this file: see data/README.md for how to load it.
@@ -31,8 +31,4 @@ CREATE TABLE fresh_segments.interest_metrics (
     percentile_ranking DOUBLE
 );
 
--- Load the data (pick ONE option)
--- Option A: CSVs exported from the challenge dataset, placed in this folder
--- COPY fresh_segments.interest_map     FROM 'interest_map.csv'     (HEADER);
--- COPY fresh_segments.interest_metrics FROM 'interest_metrics.csv' (HEADER);
--- Option B: paste the INSERT statements from the challenge's DB Fiddle below.
+-- Go to : https://www.db-fiddle.com/f/iRdsT76vaus813crPP8Ma4/10 for full schema
